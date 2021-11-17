@@ -1,0 +1,23 @@
+AGENDA SEMAINE 10/12 - 16/12
+
+Fait :
+	- CardLayout sur le panelGénéral
+	- Ajout des fonctions à la place des variables simples
+
+Non Fait :
+	- Réajustement de la vue sur les panels Simplexes
+
+Cette semaine : 
+	- Vue : Panel modifiable à réajuster
+		Ajustement de l'historique
+	- Modèle :
+		Revoir l'organisation de l'historique (stockage ?)
+		Fonctions de lecture/ecriture
+	- Controleur :
+		ECHANGES A IMPLEMENTER DANS LA VUE
+
+A ajouter :
+	- Rien
+
+Remarques :
+/!\ MAIN DE DEMO POUR L'ORAL D'ANGLAIS
